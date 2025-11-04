@@ -25,12 +25,13 @@ El proyecto integral se puede consultar en el **repositorio principal de Uplinhr
 
 ## Índice de contenidos  
 
-1. [Systeme.io](#1-systemeio)  
-2. [Make (Integromat)](#2-make-integromat)  
-3. [Google Workspace](#3-google-workspace)  
-4. [Data Management](#4-data-management)  
-5. [Métricas y Analítica](#5-métricas-y-analítica)
-6. [Estructura del repositorio](#6-estructura-del-repositorio)    
+1. [Systeme.io](#1-systemeio)
+2. [Hubspot.com](#2-hubspot) 
+3. [Make (Integromat)](#3-make-integromat)  
+4. [Google Workspace](#4-google-workspace)  
+5. [Data Management](#5-data-management)  
+6. [Métricas y Analítica](#6-métricas-y-analítica)
+7. [Estructura del repositorio](#7-estructura-del-repositorio)    
 
 ---
 
