@@ -9,6 +9,6 @@ Una vez que el correo se haya enviado se podra hacer el  analisis de a cuantos d
 Cada 2 semanas de envia un correo de seguimiento a las personas que hayan abierto los correos posterior al ultimo correo de seguimiento, para hacerlo se ingresa a cada mail > se ingresa a abiertos > acciones > agregar a segmento , Asi todos los contactos que abrieron el correo quedan en un mismo segmento
 
 Para enviarlo se debe clonar el ultimo correo de seguimiento enviado > Revisar Errores > Borrar el segmento anterior y agregar el nuevo > Enviar y realizar un analisis del resultado
---- 
+
 ## Correo de cursos
 Actualmente contamos con un curso que se envia por correo, este consta de 4 modulos, se envia un modulo por semana a quienes hayan comprado el curso (El equipo de uplin proporciona esa informacion) Se debe crear el mail siguiendo la paleta de colores y formato de correos anteriores insertando imagenes de las diapositivas y un link a la clase grabada > Agregar a los contactos que se les enviara (Aqui no se deben cambiar los contactos en cada mail, siempre son los Mismos)
