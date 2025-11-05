@@ -5,10 +5,9 @@ En este archivo se explica la forma de importar contactos de un archivo, como cr
 Para crear contactos manuales se debe ir al panel izquierdo en CRM > Contactos > Crear Contactos > Rellenar el formulario con nombre, apellido y mail > Crear Contacto
 
 ## 2- Importacion de contactos de una hoja de Excel
-Esta es la formas mas usada de crear contactos:
-En una planilla se debe incluir los siguientes datos
-Obligatorios:Nombre - Apellido - Correo
-Opcionales: Numero de telefono - Empresa - Puesto Laboral - Pais
+Esta es la formas mas usada de crear contactos,En una planilla se debe incluir los siguientes datos
+- Obligatorios:Nombre - Apellido - Correo
+- Opcionales: Numero de telefono - Empresa - Puesto Laboral - Pais
 Para realizar una importacion se debe tener en un excel los datos necesarios > Descargar en formato excel(XLSX) > CRM > Contactos > importar Contactos > Importar un archivo > Seleccionar solo Contactos > Arrastrar el archivo > Revisar errores
 
 ## 3- Segmentos
