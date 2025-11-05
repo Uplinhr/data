@@ -2,9 +2,9 @@
 
 ## Como Crear un correo
 Clonar el ultimo correo de captacion enviado (Este contiene la informacion necesaria para el cliente) > Revisar que todo este correcto > Ir a destinatario > Borrar el segmento de contactos anterior y agregar el actual > enviar el correo, este tarda 5 minutos en procesarse y ser enviado (Llega a la bandeja de promociones) 
---- 
+ 
 Una vez que el correo se haya enviado se podra hacer el  analisis de a cuantos de los enviados les llego el correo, quienes lo abrieron, quienes hicieron clicks y cuantas interraciones tuvo (El plan gratuito no tiene la opcion de editar los correos, si hay que enviarselo a algun contacto nuevo se debe clonar el correo y repetir el proceso)
---- 
+
 ## Correo de seguimiento
 Cada 2 semanas de envia un correo de seguimiento a las personas que hayan abierto los correos posterior al ultimo correo de seguimiento, para hacerlo se ingresa a cada mail > se ingresa a abiertos > acciones > agregar a segmento , Asi todos los contactos que abrieron el correo quedan en un mismo segmento
 
