@@ -13,8 +13,8 @@ Para realizar una importacion se debe tener en un excel los datos necesarios > D
 
 ## 3- Segmentos
 Los segmentos sirven para agrupar los contactos y enviar los correos en grupos, se puede hacer de 3 formas
-A: Al hacer una importacion de datos esta la opcion de crear un segmento de ese importe y renombrarlo, este contendra a todos los contactos de esa importacion
-B: Ingresar en correos enviados > Ir a los contactos que lo abrieron > Acciones > Crear segmento o agregar a un segmento
-C: Creacion del segmento > CRM > Segmento > Crear segmento > Agregar filtros deseados (si no hay flitros necesarios se omite) > agregar el grupo de contactos deseados
+- A: Al hacer una importacion de datos esta la opcion de crear un segmento de ese importe y renombrarlo, este contendra a todos los contactos de esa importacion
+- B: Ingresar en correos enviados > Ir a los contactos que lo abrieron > Acciones > Crear segmento o agregar a un segmento
+- C: Creacion del segmento > CRM > Segmento > Crear segmento > Agregar filtros deseados (si no hay flitros necesarios se omite) > agregar el grupo de contactos deseados
 
 Los contactos son uno de los recursos mas utilizados en Uplin, son los leads a los que se les enviara los correos de captacion y de seguimiento. Estos siempre son proporcionados por el equipo de Uplin.
