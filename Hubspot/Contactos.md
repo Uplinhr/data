@@ -8,6 +8,7 @@ Para crear contactos manuales se debe ir al panel izquierdo en CRM > Contactos >
 Esta es la formas mas usada de crear contactos,En una planilla se debe incluir los siguientes datos
 - Obligatorios:Nombre - Apellido - Correo
 - Opcionales: Numero de telefono - Empresa - Puesto Laboral - Pais
+
 Para realizar una importacion se debe tener en un excel los datos necesarios > Descargar en formato excel(XLSX) > CRM > Contactos > importar Contactos > Importar un archivo > Seleccionar solo Contactos > Arrastrar el archivo > Revisar errores
 
 ## 3- Segmentos
